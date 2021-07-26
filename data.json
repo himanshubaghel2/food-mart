@@ -1,0 +1,18 @@
+{
+	"items": [{
+			"item": "coke",
+			"quantity": 5,
+			"price": 35
+		},
+		{
+			"item": "water",
+			"quantity": 10,
+			"price": 20
+		},
+		{
+			"item": "biscuits",
+			"quantity": 10,
+			"price": 10
+		}
+	]
+}
